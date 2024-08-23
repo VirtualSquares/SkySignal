@@ -1,1 +1,1 @@
-Hosted on skysignal.netlify.app
+Hosted on [skysignal.netlify.app](https://skysignal.netlify.app)
